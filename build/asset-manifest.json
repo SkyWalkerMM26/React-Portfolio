@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/static/css/main.55e12eb0.chunk.css",
+    "main.js": "/static/js/main.a61c36d3.chunk.js",
+    "main.js.map": "/static/js/main.a61c36d3.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.ac25893e.js",
+    "runtime-main.js.map": "/static/js/runtime-main.ac25893e.js.map",
+    "static/js/2.fc0c2985.chunk.js": "/static/js/2.fc0c2985.chunk.js",
+    "static/js/2.fc0c2985.chunk.js.map": "/static/js/2.fc0c2985.chunk.js.map",
+    "static/js/3.a59ce5da.chunk.js": "/static/js/3.a59ce5da.chunk.js",
+    "static/js/3.a59ce5da.chunk.js.map": "/static/js/3.a59ce5da.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/main.55e12eb0.chunk.css.map": "/static/css/main.55e12eb0.chunk.css.map",
+    "static/js/2.fc0c2985.chunk.js.LICENSE.txt": "/static/js/2.fc0c2985.chunk.js.LICENSE.txt",
+    "static/media/myphoto.jpg": "/static/media/myphoto.51d4d9f0.jpg",
+    "static/media/notetaking.png": "/static/media/notetaking.cc1a070d.png",
+    "static/media/project1.png": "/static/media/project1.a4831d04.png",
+    "static/media/socialnetworkapi.png": "/static/media/socialnetworkapi.861bc032.png",
+    "static/media/workdayscheduler.png": "/static/media/workdayscheduler.2c0a53ff.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ac25893e.js",
+    "static/js/2.fc0c2985.chunk.js",
+    "static/css/main.55e12eb0.chunk.css",
+    "static/js/main.a61c36d3.chunk.js"
+  ]
+}
