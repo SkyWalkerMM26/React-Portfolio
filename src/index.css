@@ -294,7 +294,6 @@ textarea {
 	height: auto;
 	max-width: 480px;
 	max-height: 640px;
-	/* padding: 50px; */
 	margin-bottom: 50px;
 }
 
@@ -376,7 +375,6 @@ textarea {
 	padding: 50px;
 }
 
-/* Viewports Styling start*/
 @media screen and (max-width: 980px) {}
 
 @media screen and (max-width: 817px) {
@@ -441,4 +439,3 @@ textarea {
 
 @media screen and (max-width: 575px) {}
 
-/* Viewports Styling end*/
